@@ -85,3 +85,4 @@ Create a Project folder which contains files as shown below
  - Flask
 
 ### 2.Py charm community edition 
+### 3.spyder
